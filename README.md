@@ -1,3 +1,3 @@
-# Intercity-transport-service
+# Innercity-transport-service
 
 In this modern world, where every thing greatly relies on technology there is a possible to develop unique application which can justify the problems faced by ordinary methodology to achieve a desired functionality in a real time system. Our project belongs to that half. The main purpose of our project is to reduce traffic jams. In our daily lives we have to face a lot of traffic jams while we travelling to different places. As a result, we waste a lot of time. For this reason, the Government has introduced ‘NOGOR PORIBOHON’ platform which will operate at fixed times and routes which makes our daily life easier. And making this platform popular and maintains transport system easier,
