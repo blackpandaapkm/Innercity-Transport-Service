@@ -1,0 +1,31 @@
+.container{
+    width: 90%;
+}
+
+.row a{
+    font-size:1rem;
+    margin-top: 1rem;
+    padding: 8px 20px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    width: auto;
+    margin-left: 1rem;
+  }
+.showcase a{
+    font-size:1rem;
+    /* margin-top: 2rem; */
+    padding: 8px 20px;
+    border-radius: 20px;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    width: auto;
+    margin-left: 1rem;
+  }
+.showcase{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}

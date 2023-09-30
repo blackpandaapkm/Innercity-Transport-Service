@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    background-color: rgb(210, 255, 127);
+}
+.signup{
+    width: 330px;
+    padding: 2rem 1rem;
+    margin: 50px auto;
+    background-color: antiquewhite;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
+}
+h1{
+    font-size: 2rem;
+    color: black;
+    margin-bottom: 1.2rem;
+}
+form input{
+    width: 92%;
+    outline: none;
+    border: 1px solid white;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background: white;
+}
+#button{
+    font-size:1rem;
+    margin-top: 2rem;
+    padding: 10px 30px;
+    border-radius: 20px;
+    color: rgb(19, 18, 18);
+    cursor: pointer;
+    background: rgb(5, 144, 178);
+    text-decoration: none;
+}
+#button:hover{
+    background: rgb(17, 107, 43);
+}
+input:focus{
+    border: 1px solid rgb(17, 107, 43);
+}
+.term{
+    margin-top: 0.2rem;
+    margin-bottom: 2rem;
+}
+.term input{
+    height: 1em;
+    width: 1em;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.term label{
+    font-size: 1rem;
+}
+.term a{
+    color: rgb(209, 210, 223);
+
+}
+.member{
+    margin-top: 2rem;
+    margin-bottom: 0.2rem;
+}
+.member input{
+    height: 1em;
+    width: 1em;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.member a{
+    color: rgb(14, 31, 184);
+}
+#f1{
+    width: 92%;
+    outline: none;
+    border: 1px solid white;
+    padding: 12px 20px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    background: white;
+}form p{
+    text-align: left;
+    margin-left: 25px;
+}
